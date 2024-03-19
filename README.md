@@ -19,9 +19,8 @@ Welcome to my GitHub profile! I'm a passionate Java developer with 3 years of ex
 
 ## 📫 How to reach me
 Feel free to reach out to me for collaboration, freelance opportunities, or just for a chat about technology and development. You can connect with me through:
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
+- **Email:** muhammadwaseemhaiderofficial@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-waseem-haider-7ab6352bb
 
 ## 😄 Pronouns
 He/Him
